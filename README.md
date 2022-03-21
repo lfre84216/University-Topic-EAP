@@ -45,7 +45,7 @@
 ### 一頁式(登入、佈告欄、註冊)<br>
 <img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/1.png" width="900" height="600">
 <img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/2.png" width="900" height="600">
-<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/3.png" width="900" height="600">
+<img src="https://gith.com/lfre84216/University-Topic-EAP/blob/main/3.png" width="900" height="600">
 <br>
 
 ### 標籤TAG分類與分頁<br>
@@ -71,7 +71,7 @@
 <br>
 
 ## 製作過程與困難點
-在實作該專案的過程中，有嘗試想要實際讓資料庫可以被外部來連接，<br>
-達成實際直接遠端資料庫的功能，<br>
-所以在網路這方面有另外研究了關於虛擬伺服器的功能，<br>
-讓實作出來的程式也能透過外部裝置來進行連線。
+在實作該專案的過程中，關於3D虛擬角色的部分研究了很久，<br>
+最後嘗試了Three.js相關套件，<br>
+設置了另外一個伺服器端口將3D角色放入網頁中，<br>
+並透過加入frame來掛載3D角色。
