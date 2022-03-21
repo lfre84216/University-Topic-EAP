@@ -45,7 +45,7 @@
 ### 一頁式(登入、佈告欄、註冊)<br>
 <img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/1.png" width="900" height="600">
 <img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/2.png" width="900" height="600">
-<img src="https://gith.com/lfre84216/University-Topic-EAP/blob/main/3.png" width="900" height="600">
+<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/3.png" width="900" height="600">
 <br>
 
 ### 標籤TAG分類與分頁<br>
