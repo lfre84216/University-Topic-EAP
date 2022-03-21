@@ -43,7 +43,7 @@
 
 ## 相關程式畫面
 ### 登入註冊<br>
-<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/1.png" width="800" height="600">
+<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/1.png" width="900" height="400">
 <img src="https://github.com/lfre84216/BookBorrowSystem/blob/main/8.png">
 <br>
 
