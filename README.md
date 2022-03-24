@@ -43,31 +43,31 @@
 
 ## 相關程式畫面
 ### 一頁式(登入、佈告欄、註冊)<br>
-<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/1.png" width="900" height="600">
-<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/2.png" width="900" height="600">
-<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/3.png" width="900" height="600">
+<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/1.png">
+<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/2.png">
+<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/3.png">
 <br>
 
 ### 標籤TAG分類與分頁<br>
-<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/4.png" width="900" height="600">
-<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/5.png" width="900" height="600">
+<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/4.png">
+<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/5.png">
 <br>
 
 ### 右側拖拉式頁面<br>
-<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/6.png" width="900" height="600">
+<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/6.png">
 <br>
 
 ### 提案活動<br>
-<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/10.png" width="900" height="600">
-<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/11.png" width="900" height="600">
-<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/12.png" width="900" height="600">
-<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/13.png" width="900" height="600">
-<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/14.png" width="900" height="600">
+<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/10.png">
+<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/11.png">
+<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/12.png">
+<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/13.png">
+<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/14.png">
 <br>
 
 ### 3D網頁虛擬角色<br>
-<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/7.png" width="900" height="600">
-<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/9.png" width="900" height="600">
+<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/7.png">
+<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/9.png">
 <br>
 
 ## 製作過程與困難點
