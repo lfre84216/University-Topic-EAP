@@ -67,8 +67,10 @@
 
 ### 3D網頁虛擬角色<br>
 <img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/7.png">
-<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/9.png">
 <br>
+
+### 專案影片DEMO展示 (點下方圖片進入觀看)
+[![IMAGE ALT TEXT HERE](https://github.com/lfre84216/University-Topic-EAP/blob/main/9.png)](https://www.youtube.com/watch?v=jz5FIP086rY&list=WL&index=13)
 
 ## 製作過程與困難點
 在實作該專案的過程中，關於3D虛擬角色的部分研究了很久，<br>
