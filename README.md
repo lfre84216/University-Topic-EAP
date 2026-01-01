@@ -62,7 +62,6 @@
 <img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/11.png">
 <img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/12.png">
 <img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/13.png">
-<img src="https://github.com/lfre84216/University-Topic-EAP/blob/main/14.png">
 <br>
 
 ### 3D網頁虛擬角色<br>
